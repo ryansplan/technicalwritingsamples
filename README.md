@@ -2,9 +2,23 @@
 
 Hi there! Welcome to my technical writing portfolio.
 
+## :zap: Portfolio
+<ul>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/API-Documentation-Sample">API Reference in Swagger</a></li>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/Installation-Guide-Sample">Installation Guide</a></li>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/Procedure-Guide-Sample">Procedure Guide</a></li>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/RoboHelp">RoboHelp</a></li>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/User-Guide-Sample">User Guide</a></li>
+</ul>
+
+<br>
+
 <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=ryan-splan&show_icons=true&theme=transparent" />
 
 <img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-splan" />
+
+<br>
+<br>
 
 <img align="left" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
 
