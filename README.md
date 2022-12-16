@@ -9,6 +9,7 @@ Hi there! Welcome to my technical writing portfolio.
 <li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/Procedure-Guide-Sample">Procedure Guide</a></li>
 <li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/RoboHelp">RoboHelp</a></li>
 <li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/User-Guide-Sample">User Guide</a></li>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/User-Guide-Sample-Two">User Guide Two</a></li>
 </ul>
 
 <br>
