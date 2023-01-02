@@ -6,6 +6,7 @@ Hi there! Welcome to my technical writing portfolio.
 
 ## :zap: Portfolio
 <ul>
+<li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/API-User-Guide-Sample">API User Guide Sample</a></li>
 <li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/API-Reference-Sample">API Reference Sample</a></li>
 <li><a href="https://app.swaggerhub.com/apis/ryan-splan/ryanapi/1.0.0">API Reference in Swagger</a></li>
 <li><a href="https://github.com/ryan-splan/technicalwritingsamples/wiki/Installation-Guide-Sample">Installation Guide</a></li>
