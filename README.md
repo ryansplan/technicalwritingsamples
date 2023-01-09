@@ -18,9 +18,9 @@ Hi there! Welcome to my technical writing portfolio.
 
 <br>
 
-<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=ryan-splan&show_icons=true&theme=transparent" />
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api?username=ryansplan&show_icons=true&theme=transparent" />
 
-<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-splan" />
+<img align="left" width="47%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ryansplan" />
 
 <br>
 <br>
