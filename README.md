@@ -9,6 +9,7 @@ Hi there! Welcome to my technical writing portfolio.
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/API-Conceptual-Guide-Sample">API Conceptual Guide Sample</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/API-Reference-Sample">API Reference Sample</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/Code-Tutorial-Sample">Code Tutorial Sample</a></li>
+<li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/API-Swagger-Sample">API Swagger Sample</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/Installation-Guide-Sample">Installation Guide</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/Procedure-Guide-Sample">Procedure Guide</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/RoboHelp">RoboHelp</a></li>
