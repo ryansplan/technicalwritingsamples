@@ -1,0 +1,8 @@
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.AssemblyReference.cache
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe.config
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.exe
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\bin\Debug\WordUnscrambler.pdb
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.exe
+C:\Users\Ryan Splan\source\repos\WordUnscrambler\WordUnscrambler\obj\Debug\WordUnscrambler.pdb
