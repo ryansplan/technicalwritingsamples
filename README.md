@@ -18,6 +18,7 @@ Hi there! Welcome to my technical writing portfolio.
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/User-Guide-Sample">User Guide</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/User-Guide-Sample-Two">User Guide Two</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/Use-Case-sample">Use Case Sample</a></li> 
+<li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/White-Paper-Sample">Whte Paper Sample</a></li> 
   
 </ul>
 
