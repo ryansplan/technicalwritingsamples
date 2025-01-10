@@ -11,7 +11,7 @@ Hi there! Welcome to my technical writing portfolio.
 <li><a href="https://mortuarytransporter.com/">Mortuary Transporter Blog on Word Press</a></li>  
 <li><a href="https://ryansplan.github.io/MortuaryTransportPages/FirstCallLogTemplate.html">Mortuary Transporter Form</a></li>
 <li><a href="https://drive.google.com/drive/folders/1sF6wAKnpQAj-5yjF_ztXr2omSh01DIEv">User Guide and SOP Samples (PDFs)</a></li>
-<li><a href=" https://www.va.gov/vdl/documents/VistA_GUI_Hybrids/VA_Enrollment_System_Archive/ves_6_2_ug.pdf">VA User Guide Sample (PDF)</a></li> 
+<li><a href="https://www.va.gov/vdl/documents/VistA_GUI_Hybrids/VA_Enrollment_System_Archive/ves_6_2_ug.pdf">VA User Guide Sample (PDF)</a></li> 
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/API-Conceptual-Guide-Sample">API Conceptual Guide Sample</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/API-Reference-Sample">API Reference Sample</a></li>
 <li><a href="https://github.com/ryansplan/technicalwritingsamples/wiki/Code-Tutorial-Sample">Code Tutorial Sample</a></li>
